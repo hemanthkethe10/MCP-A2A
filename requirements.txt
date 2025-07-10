@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+mcp[cli]
+PyGithub
+PyPDF2
+requests 
+python-dotenv

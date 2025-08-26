@@ -1,0 +1,11 @@
+{
+  "name": "Sample A2A Agent",
+  "description": "An example A2A agent that can receive tasks and interact with MCP servers.",
+  "version": "1.0.0",
+  "endpoint": "http://localhost:8002",
+  "capabilities": ["tasks", "messages"],
+  "skills": ["file_search", "weather_summary", "github_integration"],
+  "authentication": {
+    "type": "none"
+  }
+} 

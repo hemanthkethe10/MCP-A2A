@@ -1,8 +1,13 @@
 fastapi
-uvicorn
+uvicorn[standard]
 httpx
 mcp[cli]
 PyGithub
 PyPDF2
 requests 
 python-dotenv
+websockets
+langchain
+langgraph
+pydantic
+python-multipart
